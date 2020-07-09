@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Ciao, this is inmerso's homepage. I create this just to play a bit...
+
+## Work in progress..
