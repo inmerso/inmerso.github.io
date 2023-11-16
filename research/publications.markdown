@@ -59,14 +59,14 @@ In Proceedings of the 2013 9th *IEEE Conference on Ph. D. Research in Microelect
 **Embedded Soundscape Rendering for the Visually Impaired**.
 In Proceedings of the *8th IEEE International Symposium on Industrial Embedded Systems* (SIES13), Porto, Portugal, June 19-21, 2013.
 1. Rizzon, Luca and Massari, Nicola and Gottardi, Massimo and Gasparini, Leonardo.
-**A low-power people counting system based on a vision sensor working on contrast**
+**A low-power people counting system based on a vision sensor working on contrast**.
 In Proceedings of the *IEEE International Symposium on Circuits and Systems*, ISCAS 2009.
 
 **Thesis**
 1. Luca Rizzon.
-**Cyber-Physical Systems: two case studies in design methodologies**
+**Cyber-Physical Systems: two case studies in design methodologies**.
 PhD Thesis, University of Trento, Italy, 2016.
 1. Luca Rizzon. 
 **Space Representation With Acoustic Signals For Augmented Cognition**.
 Master Thesis, University of Trento, Italy, 2012.
-1. **Sviluppo e Implementazione di un Algoritmo per il Conteggio di Persone Tramite Sensori di Immagini Cmos**, BSc Thesis, University of Trento, Italy, 2008.
+1. **Sviluppo e Implementazione di un Algoritmo per il Conteggio di Persone Tramite Sensori di Immagini Cmos**. BSc Thesis, University of Trento, Italy, 2008.
