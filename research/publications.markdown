@@ -65,8 +65,10 @@ In Proceedings of the *IEEE International Symposium on Circuits and Systems*, IS
 **Thesis**
 1. Luca Rizzon.
 **Cyber-Physical Systems: two case studies in design methodologies**.
-PhD Thesis, University of Trento, Italy, 2016.
+Ph.D. Thesis, University of Trento, Italy, 2016.
 1. Luca Rizzon. 
 **Space Representation With Acoustic Signals For Augmented Cognition**.
 Master Thesis, University of Trento, Italy, 2012.
-1. **Sviluppo e Implementazione di un Algoritmo per il Conteggio di Persone Tramite Sensori di Immagini Cmos**. BSc Thesis, University of Trento, Italy, 2008.
+1. Luca Rizzon.
+**Sviluppo e Implementazione di un Algoritmo per il Conteggio di Persone Tramite Sensori di Immagini CMOS**. 
+Bachelor Thesis, University of Trento, Italy, 2008.
