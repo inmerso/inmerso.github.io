@@ -4,7 +4,8 @@ title: Publications
 permalink: publications/
 ---
 
-**Journal Articles**
+## Journal Articles
+
 1. Davide Brunelli, Ivan Minakov, Roberto Passerone, Luca Rizzon, Maurizio Rossi, and Davide Sartori. 
 **Non-invasive cyber-physical system for data center management**.
 *Sustainable Computing: Informatics and Systems, 16*(Supplement C):66-75, 2017.
@@ -17,7 +18,8 @@ Sensors, 16(1):57, 2016.
 **Energy neutral wireless sensing for server farms monitoring**.
 *IEEE Journal on Emerging and Selected Topics in Circuits and Systems*, 4(3):324–334, September 2014.
 
-**Book Chapters**
+## Book Chapters
+
 1. Maurizio Rossi, Luca Rizzon, Matteo Fait, Roberto Passerone, and Davide Brunelli.
 **Self-powered active cooling system for high performance processors**.
 In Alessandro De Gloria, editor, *Applications in Electronics Pervading Industry, Environment and Society*, volume 351 of Lecture Notes in Electrical Engineering, pages 25–33. Springer International Publishing, 2016.
@@ -30,7 +32,7 @@ In B. Andò, P. Siciliano, V. Marletta, and A. Monteriù, editors, *Ambient Assi
 1. Luca Rizzon and Roberto Passerone. **Spatial sound rendering for assisted living on an embedded platform**.
 In Alessandro De Gloria, editor, *Applications in Electronics Pervading Industry, Environment and Society*, volume 289 of Lecture Notes in Electrical Engineering, chapter 6, pages 61–73. Springer International Publishing, 2014.
 
-**Conference and Workshop Proceedings**
+## Conference and Workshop Proceedings
 1. Gennaro Cirillo, Roberto Passerone, Antonio Posenato, and Luca Rizzon. 
 **Statistical flow classification for the IoT**.
 In *Applications in Electronics Pervading Industry, Environment and Society*, ApplePies 2019, Pisa, Italy, September 11–13, 2019.
@@ -62,7 +64,8 @@ In Proceedings of the *8th IEEE International Symposium on Industrial Embedded S
 **A low-power people counting system based on a vision sensor working on contrast**.
 In Proceedings of the *IEEE International Symposium on Circuits and Systems*, ISCAS 2009.
 
-**Thesis**
+## Thesis
+
 1. Luca Rizzon.
 **Cyber-Physical Systems: two case studies in design methodologies**.
 Ph.D. Thesis, University of Trento, Italy, 2016.
