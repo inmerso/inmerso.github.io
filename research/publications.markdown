@@ -11,7 +11,7 @@ permalink: publications/
 *Sustainable Computing: Informatics and Systems, 16*(Supplement C):66-75, 2017.
 1. Davide Brunelli, Roberto Passerone, Luca Rizzon, Maurizio Rossi, and Davide Sartori. 
 **Self-powered WSN for distributed data center monitoring**.
-Sensors, 16(1):57, 2016.
+*Sensors*, 16(1):57, 2016.
 1. Luigi Palopoli, Antonis Argyros, Josef Birchbauer, Alessio Colombo, Daniele Fontanelli, Axel Legay, Andrea Garulli, Antonello Giannitrapani, David Macii, Federico Moro, Payam Nazemzadeh, Pashalis Padeleris, Roberto Passerone, Georg Poier, Domenico Prattichizzo, Tizar Rizano, Luca Rizzon, Stefano Scheggi, and Sean Sedwards. 
 **Navigation assistance and guidance of older adults across complex public spaces: the DALi approach**. *Intelligent Service Robotics*, 8(2):77–92, 2015.
 1. Maurizio Rossi, Luca Rizzon, Matteo Fait, Roberto Passerone, and Davide Brunelli.
@@ -68,10 +68,10 @@ In Proceedings of the *IEEE International Symposium on Circuits and Systems*, IS
 
 1. Luca Rizzon.
 **Cyber-Physical Systems: two case studies in design methodologies**.
-Ph.D. Thesis, University of Trento, Italy, 2016.
+*Ph.D. Thesis*, University of Trento, Italy, 2016.
 1. Luca Rizzon. 
 **Space Representation With Acoustic Signals For Augmented Cognition**.
-Master Thesis, University of Trento, Italy, 2012.
+*Master Thesis*, University of Trento, Italy, 2012.
 1. Luca Rizzon.
 **Sviluppo e Implementazione di un Algoritmo per il Conteggio di Persone Tramite Sensori di Immagini CMOS**. 
-Bachelor Thesis, University of Trento, Italy, 2008.
+*Bachelor Thesis*, University of Trento, Italy, 2008.
