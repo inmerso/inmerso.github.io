@@ -21,7 +21,7 @@
 title: inmerso homepage
 email: rizzon@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Luca Rizzon personal repositories online on github
+  Luca Rizzon's personal repositories on GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inmerso.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: lucarizzon
