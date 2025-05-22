@@ -6,12 +6,13 @@ layout: home
 ---
 
 Ciao, this is inmerso's homepage.
-I created this just to play a bit...
+I created these pages just to play a bit...
 
 ## It's a work in progress...
+
+---
 
 ## External Links
 
 [Meteo Levico Terme](https://inmerso.github.io/meteo-levico/)
 
----
