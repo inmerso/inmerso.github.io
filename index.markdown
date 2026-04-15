@@ -14,5 +14,8 @@ I created these pages just to play a bit...
 
 ## External Links
 
+|
 [Meteo Levico Terme](https://inmerso.github.io/meteo-levico/)
-
+|
+[Meteo Trento](https://inmerso.github.io/meteo-trento/)
+|
